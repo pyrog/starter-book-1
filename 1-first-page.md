@@ -13,8 +13,10 @@ This is a standard paragraph, containing a **bolded word** followed by an _itali
 * Item 1
 * Item 2
 * Item 3
+
 ### Trois
 lorem ipsum
+
 ### quatre
 
 Check out some more advanced examples on the next page.
