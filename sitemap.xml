@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+      <loc>http://pyrog.github.io/starter-book-1/</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://pyrog.github.io/starter-book-1/2-second-page.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://pyrog.github.io/starter-book-1/1-first-page.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://pyrog.github.io/starter-book-1/styleguide.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://pyrog.github.io/starter-book-1/404.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://pyrog.github.io/starter-book-1/test/mon-titre.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://pyrog.github.io/starter-book-1/README.html</loc>
+      <priority>0.5</priority>
+    </url>
+</urlset>
