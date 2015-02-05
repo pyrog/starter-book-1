@@ -6,6 +6,8 @@ Below are a few simple examples of embedding content with markdown, starting wit
 
 ## Heading 2
 
+![zoom-level-three.png](/images/zoom-level-three.png)
+
 This is a standard paragraph, containing a **bolded word** followed by an _italicized word_, a [link](http://example.com), and a  `monospaced word` (which is typically used for referencing a piece of code).
 
 * Item 1
